@@ -1,4 +1,4 @@
-##Template do uczenia JavaScript!
+Template do uczenia JavaScript!
 
 
 POL:
